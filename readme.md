@@ -11,5 +11,8 @@ Fanastasis ランダマイザーとは\
 ランダマイザー化に関する件は下記Discordにて\
 [Discord](https://discord.gg/gt2fNWWPKN)
 
+## ロードマップ
+[Fanastasis ランダマイザー ロードマップ](https://docs.google.com/document/d/1PZqmR1dCcfrM5eat9kXyqcxAf93dv8OoCqjjGcEkovI/edit?usp=sharing)
+
 ## デモンストレーション動画
 [Fanastasis アイテムランダマイザー【貴重品以外】v0.1.0](https://youtu.be/PZkYSeYB6kg)
