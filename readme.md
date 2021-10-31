@@ -10,3 +10,6 @@ Fanastasis ランダマイザーとは\
 ## コミュニティ
 ランダマイザー化に関する件は下記Discordにて\
 [Discord](https://discord.gg/gt2fNWWPKN)
+
+## デモンストレーション動画
+[Fanastasis アイテムランダマイザー【貴重品以外】v0.1.0](https://youtu.be/PZkYSeYB6kg)
