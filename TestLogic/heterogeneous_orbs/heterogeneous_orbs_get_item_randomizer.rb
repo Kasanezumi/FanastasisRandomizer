@@ -369,9 +369,6 @@ p items_placement_list
 # ----------------------------------------------------------------------------------
 # ファイルに書き込んでいく
 
-# パーティ解放フラグカウンタ
-shuffle_party_num = 0
-
 # アイテム一覧書き出し
 items_placement_list.each_with_index { |i,j|
   # 何故かr+で実施したら末尾に追記の挙動になった
@@ -394,8 +391,6 @@ items_placement_list.each_with_index { |i,j|
     puts "変更後"
     puts eval("#{i[1]}")
     puts
-
-    shuffle_party_num += 1
 
     # ファイル出力
     File.open(filepath, "w") do |file3|
