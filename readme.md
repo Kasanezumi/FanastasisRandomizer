@@ -9,7 +9,9 @@ Fanastasis ランダマイザーとは\
 
 ## リリース一覧
 [アイテムランダマイザー【貴重品以外】](https://github.com/Kasanezumi/FanastasisRandomizer/releases/tag/itemrandomizer-except-valuables-v0.1.0) \
-[パーティランダマイザー](https://github.com/Kasanezumi/FanastasisRandomizer/releases/tag/party-randomizer-v0.2.0)
+[パーティランダマイザー](https://github.com/Kasanezumi/FanastasisRandomizer/releases/tag/party-randomizer-v0.2.0)　\
+[ボスラッシュ](https://github.com/Kasanezumi/FanastasisRandomizer/releases/tag/bossrush-v0.3.1) \
+[BGM/BGSランダマイザー](https://github.com/Kasanezumi/FanastasisRandomizer/releases/tag/bgm-bgs-randomizer-v0.4.0) 
 
 ## コミュニティ
 ランダマイザー化に関する件は下記Discordにて\
@@ -22,3 +24,5 @@ Fanastasis ランダマイザーとは\
 ## デモンストレーション動画
 [Fanastasis アイテムランダマイザー【貴重品以外】v0.1.0](https://youtu.be/PZkYSeYB6kg) \
 [Fanastasis パーティランダマイザー v0.2.0](https://youtu.be/xIJdF-IbMFA)
+[Fanastasis ボスラッシュMOD](https://youtu.be/svuqk85OpuM)
+[Fanastasis BGM/BGSランダマイザー ver0.4.0](https://youtu.be/g6POrYFQTBc)
