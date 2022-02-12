@@ -23,6 +23,6 @@ Fanastasis ランダマイザーとは\
 
 ## デモンストレーション動画
 [Fanastasis アイテムランダマイザー【貴重品以外】v0.1.0](https://youtu.be/PZkYSeYB6kg) \
-[Fanastasis パーティランダマイザー v0.2.0](https://youtu.be/xIJdF-IbMFA)
-[Fanastasis ボスラッシュMOD](https://youtu.be/svuqk85OpuM)
-[Fanastasis BGM/BGSランダマイザー ver0.4.0](https://youtu.be/g6POrYFQTBc)
+[Fanastasis パーティランダマイザー v0.2.0](https://youtu.be/xIJdF-IbMFA) \
+[Fanastasis ボスラッシュMOD](https://youtu.be/svuqk85OpuM) \
+[Fanastasis BGM/BGSランダマイザー ver0.4.0](https://youtu.be/g6POrYFQTBc) 
